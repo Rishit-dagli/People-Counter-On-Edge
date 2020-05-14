@@ -83,14 +83,6 @@ From the main directory:
    npm install
    ```
 
-## What model to use
-
-It is up to you to decide on what model to use for the application. You need to find a model not already converted to Intermediate Representation format (i.e. not one of the Intel® Pre-Trained Models), convert it, and utilize the converted model in your application.
-
-Note that you may need to do additional processing of the output to handle incorrect detections, such as adjusting confidence threshold or accounting for 1-2 frames where the model fails to see a person already counted and would otherwise double count.
-
-**If you are otherwise unable to find a suitable model after attempting and successfully converting at least three other models**, you can document in your write-up what the models were, how you converted them, and why they failed, and then utilize any of the Intel® Pre-Trained Models that may perform better.
-
 ## Run the application
 
 From the main directory:
@@ -185,8 +177,7 @@ User has to give `-video_size` command line argument according to the input as i
 
 ## A Note on Running Locally
 
-The servers herein are configured to utilize the Udacity classroom workspace. As such,
-to run on your local machine, you will need to change the below file:
+To run on a local machine you would need to change these files:
 
 ```
 webservice/ui/src/constants/constants.js
