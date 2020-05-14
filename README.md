@@ -1,8 +1,12 @@
 # Deploy a People Counter App at the Edge
 
-| Details            |              |
-|-----------------------|---------------|
-| Programming Language: |  Python 3.5 or 3.6 |
+[![](https://img.shields.io/badge/Rishit-Dagli-brightgreen.svg?colorB=00ff00)](https://www.rishit.tech)
+![License](https://img.shields.io/github/license/Rishit-dagli/People-Counter-On-Edge)
+[![Python Version](https://img.shields.io/badge/Python-3.5|3.6-blue.svg)](https://shields.io/)
+![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ![people-counter-python](./images/people-counter-image.png)
 
