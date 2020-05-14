@@ -105,14 +105,14 @@ I ended up using a model from Intel OpenVino Model Zoo due to poor performance o
 
 ### Model size
 
-| | |SSD MobileNet V2|SSD Inception V2|SSD Coco MobileNet V1|
+| |SSD MobileNet V2|SSD Inception V2|SSD Coco MobileNet V1|
 |---|---|---|---|---|
 |Before Conversion|67 MB|98 MB|28 MB|
 |After Conversion|65 MB|96 MB|26 MB|
 
 ### Inference Time
 
-| | |SSD MobileNet V2|SSD Inception V2|SSD Coco MobileNet V1|
+| |SSD MobileNet V2|SSD Inception V2|SSD Coco MobileNet V1|
 |---|---|---|---|---|
 |Before Conversion|50 ms|150 ms|55 ms|
 |After Conversion|60 ms|155 ms|60 ms|
