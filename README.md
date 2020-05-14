@@ -9,7 +9,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-![people-counter-python](./images/people-counter-image.png)
+[![IMAGE ALT TEXT HERE](./images/people-counter-image.png)](https://www.youtube.com/watch?v=gjxRXuFpfgU)
+
+Click the image above to see a video of the demo or use the link [here](https://www.youtube.com/watch?v=gjxRXuFpfgU)
 
 ## What it Does
 
