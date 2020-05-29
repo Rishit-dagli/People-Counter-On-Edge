@@ -35,9 +35,6 @@ Click the image above to see a video of the demo or use the link [here](https://
     + [Using a camera stream instead of a video file](#using-a-camera-stream-instead-of-a-video-file)
 - [A Note on Running Locally](#a-note-on-running-locally)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 ## What it Does
 
 The people counter application will demonstrate how to create a smart video IoT solution using Intel® hardware and software tools. The app will detect people in a designated area, providing the number of people in the frame, average duration of people in frame, and total count. **I strongly recommend you to read the [WRITEUP](https://github.com/Rishit-dagli/People-Counter-On-Edge/blob/master/WRITEUP.md)**
