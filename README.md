@@ -13,6 +13,31 @@
 
 Click the image above to see a video of the demo or use the link [here](https://www.youtube.com/watch?v=gjxRXuFpfgU)
 
+## Table of Contents
+
+- [What it Does](#what-it-does)
+- [How it Works](#how-it-works)
+- [Requirements](#requirements)
+  * [Hardware](#hardware)
+  * [Software](#software)
+- [Setup](#setup)
+  * [Install Intel® Distribution of OpenVINO™ toolkit](#install-intel--distribution-of-openvino--toolkit)
+  * [Install Nodejs and its dependencies](#install-nodejs-and-its-dependencies)
+  * [Install npm](#install-npm)
+- [Run the application](#run-the-application)
+  * [Step 1 - Start the Mosca server](#step-1---start-the-mosca-server)
+  * [Step 2 - Start the GUI](#step-2---start-the-gui)
+  * [Step 3 - FFmpeg Server](#step-3---ffmpeg-server)
+  * [Step 4 - Run the code](#step-4---run-the-code)
+    + [Setup the environment](#setup-the-environment)
+    + [Running on the CPU](#running-on-the-cpu)
+    + [Running on the Intel® Neural Compute Stick](#running-on-the-intel--neural-compute-stick)
+    + [Using a camera stream instead of a video file](#using-a-camera-stream-instead-of-a-video-file)
+- [A Note on Running Locally](#a-note-on-running-locally)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## What it Does
 
 The people counter application will demonstrate how to create a smart video IoT solution using Intel® hardware and software tools. The app will detect people in a designated area, providing the number of people in the frame, average duration of people in frame, and total count. **I strongly recommend you to read the [WRITEUP](https://github.com/Rishit-dagli/People-Counter-On-Edge/blob/master/WRITEUP.md)**
